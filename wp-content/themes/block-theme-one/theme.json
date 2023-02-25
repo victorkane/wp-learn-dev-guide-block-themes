@@ -1,6 +1,4 @@
 {
-  "$schema": "https://schemas.wp.org/trunk/theme.json",
-  "version": 2,
-  "settings": {},
-  "styles": {}
+	"version": 2,
+	"$schema": "https://schemas.wp.org/wp/6.1/theme.json"
 }
