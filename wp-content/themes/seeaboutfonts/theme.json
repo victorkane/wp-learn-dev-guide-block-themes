@@ -59,6 +59,28 @@
 					],
 					"fontFamily": "PT Sans",
 					"slug": "pt-sans"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Crete Round",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/crete-round_normal_400.ttf"
+							]
+						},
+						{
+							"fontFamily": "Crete Round",
+							"fontStyle": "italic",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/crete-round_italic_400.ttf"
+							]
+						}
+					],
+					"fontFamily": "Crete Round",
+					"slug": "crete-round"
 				}
 			]
 		}
