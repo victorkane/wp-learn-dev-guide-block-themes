@@ -117,6 +117,8 @@ build/
 # !wp-content/themes/mydreamtheme/
 !wp-content/themes/block-theme-one/
 !wp-content/themes/block-theme-two/
+!wp-content/themes/seeaboutfonts/
+
 
 # node-modules and build directories will be ignored (see settings above)
 # !wp-content/plugins/my-first-gutenberg-app/
